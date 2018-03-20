@@ -1,4 +1,4 @@
-# Memory Game 🎮
+# Memory Game Desktop application 🎮
 
 [<img src="image/memory.svg" align="right" width="100">](https://prithaupadhyay.github.io/Memory-Game/)
 
@@ -7,6 +7,14 @@
 Memory game with a bit of Geeky touch.
 
 Check the live version [here](https://prithaupadhyay.github.io/Memory-Game/)
+
+##Get local executable file
+```sh
+$git clone https://github.com/prithaupadhyay/Memory-Game-electron-app
+npm start
+electron-packager
+```
+
 
 ## Developement
 - Fork the repository and then follow the instructions:
